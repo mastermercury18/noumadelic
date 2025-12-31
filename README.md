@@ -1,4 +1,4 @@
-# NOUMADELIC
+# NOUMADELIC 𝚿⋆˚꩜｡
 
 **NOUMADELIC** is a prompt-engineering framework for structured exploration of altered cognitive states as tools for reasoning, insight generation, and perspective-shifting in mathematics, science, and technology.
 
